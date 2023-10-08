@@ -1,4 +1,4 @@
-# - Портфолио: аналитик данных
+#  Портфолио: аналитик данных
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,7 +21,7 @@
 
 * 🌍  Я живу в Сосновом Бору, Ленинградской области.
 * 🔭  Мне нравится изучать новые инструменты для анализа, например, сейчас я изучаю Python и Power BI.
-* :mailbox: Contact Me: [![Telegram Badge](https://=Telegram&logoColor=white)](https://t.me/) [![Gmail Badge](https://=white)](mailto:evgenij)
+* :mailbox: Свяжитесь со мной: [![Telegram Badge](https://=Telegram&logoColor=white)](https://t.me/) [![Gmail Badge](https://mail.google.com/mail/u/0/#inbox/=white)]
  
 
 
@@ -54,7 +54,7 @@ align="left">
 | stepik.org         | BI developer Tableau                       | 02/2023 - 04/2023 |
 | scholar.google.ru  | Advanced course in Google Analytics        | 02/2022 - 04/2022 |
 | skillbox.ru        | Skillbox Excel + Google Tables             | 01/2021 - 05/2021 |
-| dnk.bz/business-ac | Academy of System Business DNA             | 05/2020 - 12/2020 |
+
 
 ## ✍️ Проект
 
