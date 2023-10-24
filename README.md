@@ -49,11 +49,11 @@ align="left">
 
 | Courses            | Name                                       | Date              |
 | -------------------| :----------------------------------------: | :---------------: |
-| stepik.org         | Interactive SQL Simulator                  | 03/2023 - xx/2023 |
-| sky.pro            | Data Analyst                               | 10/2022 - xx/2023 |
-| stepik.org         | BI developer Tableau                       | 02/2023 - 04/2023 |
-| scholar.google.ru  | Advanced course in Google Analytics        | 02/2022 - 04/2022 |
-| skillbox.ru        | Skillbox Excel + Google Tables             | 01/2021 - 05/2021 |
+| stepik.org         | Интерактивный тренажер по SQL              | 03/2023 - xx/2023 |
+| sky.pro            | Аналитик данных                            | 10/2022 - xx/2023 |
+| stepik.org         | BI разработчик. Основы работы в Tableau    | 02/2023 - 04/2023 |
+| scholar.google.ru  | Продвинутый курс по Google Analytics       | 02/2022 - 04/2022 |
+| skillbox.ru        | Excel + Google Таблицы                     | 01/2021 - 05/2021 |
 
 
 ## ✍️ Проект
