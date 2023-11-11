@@ -21,7 +21,7 @@
 
 * 🌍  Я живу в Сосновом Бору, Ленинградской области.
 * 🔭  Мне нравится изучать новые инструменты для анализа, например, сейчас я изучаю Python и Power BI.
-* :mailbox: Свяжитесь со мной: [![Telegram Badge](https://=Telegram&logoColor=white)](https://t.me/) [![Gmail Badge](https://mail.google.com/mail/u/0/#inbox/=white)]
+* :mailbox: Свяжитесь со мной: [![Telegram Badge](https://=Telegram&logoColor=white)](https://t.me/+7(911)125-02-14) [![Gmail Badge](https://mail.google.com/mail/u/0/#inbox/=white)]
  
 
 
